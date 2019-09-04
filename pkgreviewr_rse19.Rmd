@@ -24,7 +24,9 @@ main_textsize: "120px"
 main_textcol: "black"
 logoleft_name: assets/icon_letterring_color.svg
 logoright_name: assets/rse-sheffield-logo.png
+logocenter_name: assets/pkgreviewr_QR.png
 main_topsize: 0.25 #percent coverage of the poster
+logocenter_width: 0.05 # percent of width
 main_bottomsize: 0.05
 body_textsize: "35px"
 output:
@@ -72,6 +74,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### R package to help guide the review process through automation and templating.
 
+### **<https://github.com/ropenscilabs/pkgreviewr>**
+
 ***
 
 ## Install package
@@ -101,7 +105,6 @@ Receiving objects: 100% (2379/2379), 1493 kb, done.
 
 ```
 
-<br>
 
 ## `pkgreview_create()` actions:
 
