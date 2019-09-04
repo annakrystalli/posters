@@ -24,7 +24,6 @@ main_textsize: "120px"
 main_textcol: "black"
 logoleft_name: assets/icon_letterring_color.svg
 logoright_name: assets/rse-sheffield-logo.png
-logocenter_name: assets/pkgreviewr_QR.png
 main_topsize: 0.25 #percent coverage of the poster
 logocenter_width: 0.05 # percent of width
 main_bottomsize: 0.05
@@ -183,3 +182,8 @@ Output created: request.html
 
 ```
 <img src="assets/request_rendered.png" width=100%>
+
+
+<center>
+<img src="assets/me_scotland.jpg" width=35% style="margin-right: 20%; border:3px solid black; border-radius: 50%"><img src="assets/pkgreviewr_QR.png" width=30%>
+</center>
