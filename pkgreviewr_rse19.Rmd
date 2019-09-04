@@ -159,7 +159,7 @@ pkgreviewr::pkgreview_create(
 
 ## Invite reviewers
 
-Next stage is to find reviewers. `pkgreviewr` provides functionality for generating prepopulated invitations to review.
+Next stage is to find reviewers. `pkgreviewr` provides functionality for generating prepopulated invitations to review, ready to email out!
 
 ```{r, eval=FALSE}
 pkgreviewr::render_request()
