@@ -44,7 +44,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # rOpenSci software review
 
-### rOpenSci curate software to help scientists access, download, manage, and archive scientific data in open, reproducible ways.
+### rOpenSci curate R software to help scientists access, download, manage, and archive scientific data in open, reproducible ways.
 
 <br>
 
@@ -70,7 +70,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # pkgreviewr `r emo::ji("package")`
 
-### Helps guide the review process through automation and templating.
+### R package to help guide the review process through automation and templating.
 
 ***
 
